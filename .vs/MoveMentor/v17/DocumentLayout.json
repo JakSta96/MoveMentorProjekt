@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\models\\sporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\models\\sporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\movementor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\movementor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\trenings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\trenings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\controllers\\treningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\controllers\\treningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\sporttypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\sporttypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\sporttypes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\sporttypes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\sporttypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\sporttypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\sporttypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\sporttypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\sporttypes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\sporttypes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\controllers\\sporttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\controllers\\sporttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\trenings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\trenings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\trenings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\trenings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\trenings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\trenings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\tests\\controllers\\sporttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\tests\\controllers\\sporttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\tests\\controllers\\treningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\tests\\controllers\\treningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mefix\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\migrations\\20240605120038_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\migrations\\20240605120038_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\migrations\\20230610170823_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\migrations\\20230610170823_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\views\\trenings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\views\\trenings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\migrations\\20240605212601_addcommenttotrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\migrations\\20240605212601_addcommenttotrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\migrations\\20240605211259_addcommenttosporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\migrations\\20240605211259_addcommenttosporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\migrations\\20240705185723_addusertocontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\migrations\\20240705185723_addusertocontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|c:\\users\\mefix\\desktop\\movementorprojektstudia-main\\movementor\\data\\migrations\\20240705184017_applypendingchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54757D7F-9945-414E-BFF2-B4691E3DC677}|MoveMentor\\MoveMentor.csproj|solutionrelative:movementor\\data\\migrations\\20240705184017_applypendingchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0d88d125-84f9-49ef-ae2f-e54b55205e08}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:28:04.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveMentor.csproj",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\MoveMentor.csproj",
+              "RelativeDocumentMoniker": "MoveMentor\\MoveMentor.csproj",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\MoveMentor.csproj",
+              "RelativeToolTip": "MoveMentor\\MoveMentor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T10:32:09.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\Contacts.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Models\\Contacts.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\Contacts.cs",
+              "RelativeToolTip": "MoveMentor\\Models\\Contacts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:11:57.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "MoveMentor\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:21:06.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:27:49.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trening.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\Trening.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Models\\Trening.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\Trening.cs",
+              "RelativeToolTip": "MoveMentor\\Models\\Trening.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:47:58.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportType.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\SportType.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Models\\SportType.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\SportType.cs",
+              "RelativeToolTip": "MoveMentor\\Models\\SportType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:47:58.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Contacts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Details.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Contacts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:28:32.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Contacts\\Edit.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:28:46.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MoveMentor\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:44:13.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240705185723_AddUserToContacts.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240705185723_AddUserToContacts.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\Migrations\\20240705185723_AddUserToContacts.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240705185723_AddUserToContacts.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\Migrations\\20240705185723_AddUserToContacts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:57:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Contacts\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:28:19.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreningsController.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\TreningsController.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Controllers\\TreningsController.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\TreningsController.cs",
+              "RelativeToolTip": "MoveMentor\\Controllers\\TreningsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:47:58.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Trenings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Index.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Trenings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240705184017_ApplyPendingChanges.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240705184017_ApplyPendingChanges.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\Migrations\\20240705184017_ApplyPendingChanges.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240705184017_ApplyPendingChanges.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\Migrations\\20240705184017_ApplyPendingChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:40:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:32:52.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:24:14.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:32:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:32:59.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\SportTypes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Create.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\SportTypes\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:55:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\SportTypes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Delete.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\SportTypes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:56:13.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Details.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\SportTypes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Details.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\SportTypes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:56:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\SportTypes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Edit.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\SportTypes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:57:18.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\SportTypes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\SportTypes\\Index.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\SportTypes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SportTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\SportTypesController.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Controllers\\SportTypesController.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\SportTypesController.cs",
+              "RelativeToolTip": "MoveMentor\\Controllers\\SportTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:47:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Details.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Trenings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Details.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Trenings\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MoveMentor\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:01:15.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Trenings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Edit.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Trenings\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Create.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Trenings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Create.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Trenings\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MoveMentor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MoveMentor\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T20:54:50.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240605212601_AddCommentToTrening.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240605212601_AddCommentToTrening.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\Migrations\\20240605212601_AddCommentToTrening.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240605212601_AddCommentToTrening.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\Migrations\\20240605212601_AddCommentToTrening.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:26:01.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Program.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Program.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Program.cs",
+              "RelativeToolTip": "MoveMentor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:53:18.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240605211259_AddCommentToSportType.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240605211259_AddCommentToSportType.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\Migrations\\20240605211259_AddCommentToSportType.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240605211259_AddCommentToSportType.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\Migrations\\20240605211259_AddCommentToSportType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:12:59.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "MoveMentor\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "MoveMentor\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T20:54:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TreningsController.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Tests\\Controllers\\TreningsController.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Tests\\Controllers\\TreningsController.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Tests\\Controllers\\TreningsController.cs",
+              "RelativeToolTip": "MoveMentor\\Tests\\Controllers\\TreningsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:33:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SportTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Tests\\Controllers\\SportTypesController.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Tests\\Controllers\\SportTypesController.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Tests\\Controllers\\SportTypesController.cs",
+              "RelativeToolTip": "MoveMentor\\Tests\\Controllers\\SportTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:47:44.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\mefix\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:22:15.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MoveMentor\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T11:09:40.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240605120038_initial.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240605120038_initial.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\Migrations\\20240605120038_initial.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20240605120038_initial.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\Migrations\\20240605120038_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:00:38.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20230610170823_one.cs",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20230610170823_one.cs",
+              "RelativeDocumentMoniker": "MoveMentor\\Data\\Migrations\\20230610170823_one.cs",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Data\\Migrations\\20230610170823_one.cs",
+              "RelativeToolTip": "MoveMentor\\Data\\Migrations\\20230610170823_one.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:47:58.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\appsettings.json",
+              "RelativeDocumentMoniker": "MoveMentor\\appsettings.json",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\appsettings.json",
+              "RelativeToolTip": "MoveMentor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T10:45:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACFAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MoveMentor\\Views\\Trenings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mefix\\Desktop\\MoveMentorProjektStudia-main\\MoveMentor\\Views\\Trenings\\Delete.cshtml",
+              "RelativeToolTip": "MoveMentor\\Views\\Trenings\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:47:58.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

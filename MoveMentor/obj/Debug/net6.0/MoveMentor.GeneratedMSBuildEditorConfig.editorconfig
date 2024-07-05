@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MoveMentor
+build_property.RootNamespace = MoveMentor
+build_property.ProjectDir = C:\Users\mefix\Desktop\MoveMentorProjektStudia-main\MoveMentor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mefix\Desktop\MoveMentorProjektStudia-main\MoveMentor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/SportTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRUeXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/SportTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRUeXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/SportTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRUeXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/SportTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRUeXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/SportTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRUeXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Trenings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmluZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Trenings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmluZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Trenings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmluZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Trenings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmluZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Trenings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mefix/Desktop/MoveMentorProjektStudia-main/MoveMentor/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fali7fyrkt
